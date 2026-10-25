@@ -1,0 +1,1813 @@
+{
+  "about": "תוכן לווידג'ט המתחלף במסך הדירה. כל יום נבחר פריט אחד מכל רשימה לפי התאריך. מילת היום מתחלפת לסירוגין בין עברית לאנגלית, ובבדיחה התשובה מופיעה כמה שניות אחרי השאלה.",
+  "words": [
+    {
+      "word": "תעתוע",
+      "meaning": "דבר שמטעה את העין או את המחשבה",
+      "example": "ראיתי פיצה במקרר, אבל זה היה תעתוע."
+    },
+    {
+      "word": "דמדומים",
+      "meaning": "האור החלש בזמן השקיעה או לפני הזריחה",
+      "example": "הכי כיף לשבת במרפסת בדמדומים."
+    },
+    {
+      "word": "סגריר",
+      "meaning": "מזג אוויר קר, גשום ואפור",
+      "example": "ביום סגריר לא יוצאים מהשמיכה."
+    },
+    {
+      "word": "צינה",
+      "meaning": "קור קל ונעים",
+      "example": "צינה של ערב סתיו, ותה חם ביד."
+    },
+    {
+      "word": "להתכרבל",
+      "meaning": "להתכנס בתנוחה נוחה וחמה",
+      "example": "התכרבלנו ארבעתנו על הספה מול סדרה."
+    },
+    {
+      "word": "נמנום",
+      "meaning": "שינה קלה וקצרה",
+      "example": "נמנום קצר אחרי ההרצאה, ואני כמו חדשה."
+    },
+    {
+      "word": "נחת",
+      "meaning": "שביעות רצון שקטה",
+      "example": "איזו נחת: הכיור ריק."
+    },
+    {
+      "word": "גחמה",
+      "meaning": "רצון פתאומי וחסר היגיון",
+      "example": "בגחמה של רגע הזמנו גלידה בחצות."
+    },
+    {
+      "word": "חמקמק",
+      "meaning": "משהו שקשה לתפוס או להגדיר",
+      "example": "השלט של המזגן חמקמק במיוחד."
+    },
+    {
+      "word": "רשרוש",
+      "meaning": "קול חלש של עלים או נייר",
+      "example": "רשרוש של שקית חטיפים מעיר את כל הדירה."
+    },
+    {
+      "word": "קרקור",
+      "meaning": "הקול שהבטן משמיעה כשרעבים",
+      "example": "הקרקורים מהבטן אומרים שהגיע זמן לאכול."
+    },
+    {
+      "word": "ניחוח",
+      "meaning": "ריח נעים",
+      "example": "ניחוח של עוגה שיוצאת מהתנור."
+    },
+    {
+      "word": "שלווה",
+      "meaning": "רוגע ושקט פנימי",
+      "example": "שלווה של שבת בבוקר."
+    },
+    {
+      "word": "שלהי",
+      "meaning": "הסוף של תקופה",
+      "example": "בשלהי הקיץ עוד אפשר ללכת לים."
+    },
+    {
+      "word": "משעול",
+      "meaning": "שביל צר",
+      "example": "משעול קטן ליד הבית, מושלם להליכת ערב."
+    },
+    {
+      "word": "רסיס",
+      "meaning": "חתיכה קטנה מאוד",
+      "example": "נשאר רק רסיס של עוגה בקופסה."
+    },
+    {
+      "word": "זיו",
+      "meaning": "זוהר, אור",
+      "example": "זיו השמש נכנס בבוקר מהחלון."
+    },
+    {
+      "word": "תפארת",
+      "meaning": "יופי והדר",
+      "example": "הסלון אחרי ניקיון: תפארת."
+    },
+    {
+      "word": "הבלחה",
+      "meaning": "הופעה פתאומית וקצרה",
+      "example": "הבלחה של רעיון גאוני בשתיים בלילה."
+    },
+    {
+      "word": "נצנוץ",
+      "meaning": "הבהוב קטן של אור",
+      "example": "נצנוץ של כוכבים בשמיים."
+    },
+    {
+      "word": "התמהמהות",
+      "meaning": "עיכוב, איטיות לפני שעושים משהו",
+      "example": "עוד קצת התמהמהות ונפספס את הסרט."
+    },
+    {
+      "word": "בעצלתיים",
+      "meaning": "באיטיות ובעצלות",
+      "example": "בבוקר שבת מתעוררות בעצלתיים."
+    },
+    {
+      "word": "התבטלות",
+      "meaning": "בזבוז זמן בלי לעשות כלום",
+      "example": "יום של התבטלות מוצדקת לגמרי."
+    },
+    {
+      "word": "שעשוע",
+      "meaning": "משחק או הנאה קלילה",
+      "example": "הפאזל החדש הוא השעשוע של השבוע."
+    },
+    {
+      "word": "תעלול",
+      "meaning": "מעשה שובב",
+      "example": "מי עשתה את התעלול עם המדבקות על המקרר?"
+    },
+    {
+      "word": "קונדס",
+      "meaning": "מי שעושה מעשי שובבות",
+      "example": "יש בינינו קונדסית אחת לפחות."
+    },
+    {
+      "word": "להג",
+      "meaning": "דיבור ארוך וריק",
+      "example": "פחות להג, יותר פופקורן."
+    },
+    {
+      "word": "פטפוט",
+      "meaning": "שיחה קלילה על הכול ועל כלום",
+      "example": "פטפוט של חצות במטבח."
+    },
+    {
+      "word": "גיחוך",
+      "meaning": "צחוק קל, לפעמים עם קצת לעג",
+      "example": "גיחוך קטן כשמישהי שוב מועדת על השטיח."
+    },
+    {
+      "word": "תמיהה",
+      "meaning": "פליאה, תהייה",
+      "example": "תמיהה גדולה: לאן נעלמים כל הגרביים?"
+    },
+    {
+      "word": "השתאות",
+      "meaning": "התפעלות עם פליאה",
+      "example": "השתאות מול שקיעה ורודה."
+    },
+    {
+      "word": "תעוזה",
+      "meaning": "אומץ להעז",
+      "example": "צריך תעוזה כדי לפתוח את המקרר אחרי חופשה."
+    },
+    {
+      "word": "נדיבות",
+      "meaning": "נכונות לתת בלב רחב",
+      "example": "נדיבות זה להשאיר את הפרוסה האחרונה."
+    },
+    {
+      "word": "ענווה",
+      "meaning": "צניעות, בלי להתרברב",
+      "example": "בכל הענווה: השקשוקה שלי הכי טובה בדירה."
+    },
+    {
+      "word": "חמימות",
+      "meaning": "חום נעים, גם של יחס",
+      "example": "חמימות של בית עם שותפות טובות."
+    },
+    {
+      "word": "משאת נפש",
+      "meaning": "חלום גדול ושאיפה עמוקה",
+      "example": "משאת נפשי: מדיח כלים."
+    },
+    {
+      "word": "חשבון נפש",
+      "meaning": "בדיקה עצמית של מעשים ורגשות",
+      "example": "חשבון נפש: כמה פעמים השבוע הזמנו משלוח?"
+    },
+    {
+      "word": "השראה",
+      "meaning": "רעיון או רגש שמניע ליצור",
+      "example": "ההשראה הגיעה, אז אפינו עוגה."
+    },
+    {
+      "word": "תוגה",
+      "meaning": "עצב שקט",
+      "example": "קצת תוגה בסוף חופשה."
+    },
+    {
+      "word": "עליזות",
+      "meaning": "שמחה קלילה",
+      "example": "עליזות של יום שישי בצהריים."
+    },
+    {
+      "word": "פיכחון",
+      "meaning": "חזרה לחשיבה צלולה",
+      "example": "הפיכחון מגיע עם חשבון החשמל."
+    },
+    {
+      "word": "טרחן",
+      "meaning": "מי שמאריך בדיבור ומטריד",
+      "example": "אל תהיי טרחנית, תגידי כבר מי הרוצח."
+    },
+    {
+      "word": "שלומיאל",
+      "meaning": "אדם מגושם וחסר מזל",
+      "example": "הרגשתי שלומיאלית כשנעלתי את עצמי מחוץ לבית."
+    },
+    {
+      "word": "חפיף",
+      "meaning": "עשוי בשטחיות ובמהירות (סלנג)",
+      "example": "הניקיון היה קצת חפיף, אבל נחשב."
+    },
+    {
+      "word": "סחבק",
+      "meaning": "יחס חברי וקליל, כמו אחד משלנו (סלנג)",
+      "example": "השכנה מלמטה ממש סחבקית."
+    },
+    {
+      "word": "פדיחה",
+      "meaning": "מצב מביך (סלנג)",
+      "example": "פדיחה: קראתי למרצה אמא."
+    },
+    {
+      "word": "דוגרי",
+      "meaning": "ישיר, בלי עקיפות",
+      "example": "אגיד לך דוגרי: התור שלך לשטוף כלים."
+    },
+    {
+      "word": "צ'ופר",
+      "meaning": "פרס קטן או פינוק",
+      "example": "צ'ופר לסוף שבוע: קרואסונים."
+    },
+    {
+      "word": "חפלה",
+      "meaning": "מסיבה שמחה עם מוזיקה",
+      "example": "חפלה בסלון לכבוד סוף המבחנים."
+    },
+    {
+      "word": "שוויץ",
+      "meaning": "התרברבות",
+      "example": "בלי שוויץ, אבל העציץ ששתלתי עדיין חי."
+    },
+    {
+      "word": "בלגן",
+      "meaning": "אי סדר",
+      "example": "בלגן יצירתי זה עדיין בלגן."
+    },
+    {
+      "word": "אחלה",
+      "meaning": "מצוין (סלנג)",
+      "example": "אחלה ערב, אחלה שותפות."
+    },
+    {
+      "word": "דאון",
+      "meaning": "מצב רוח ירוד (סלנג)",
+      "example": "יום דאון? יש שוקולד במגירה."
+    },
+    {
+      "word": "התלהבות",
+      "meaning": "שמחה וציפייה גדולה",
+      "example": "התלהבות של פרק חדש בסדרה."
+    },
+    {
+      "word": "התרגשות",
+      "meaning": "רגש חזק לקראת משהו",
+      "example": "התרגשות לפני הדייט."
+    },
+    {
+      "word": "פרגון",
+      "meaning": "שמחה בהצלחה של מישהו אחר והבעה שלה",
+      "example": "פרגון ענק לכל מי שסיימה הגשה השבוע."
+    },
+    {
+      "word": "התבכיינות",
+      "meaning": "תלונה ארוכה ובקול",
+      "example": "די להתבכיינות, יש פיצה בדרך."
+    },
+    {
+      "word": "תקתוק",
+      "meaning": "עבודה מהירה ויעילה (סלנג)",
+      "example": "תקתקנו את הניקיון בחצי שעה."
+    },
+    {
+      "word": "טפטוף",
+      "meaning": "ירידה של טיפות קטנות",
+      "example": "טפטוף של גשם על החלון."
+    },
+    {
+      "word": "שכשוך",
+      "meaning": "הזזה של מים ברגליים או בידיים",
+      "example": "שכשוך רגליים בים, הכי טוב שיש."
+    },
+    {
+      "word": "זמזום",
+      "meaning": "קול מתמשך של יתוש, או מנגינה בפה סגור",
+      "example": "זמזום של שיר שנתקע בראש."
+    },
+    {
+      "word": "תקווה",
+      "meaning": "ציפייה לטוב",
+      "example": "תקווה שהמכונה לא תאכל עוד גרב."
+    },
+    {
+      "word": "סקרנות",
+      "meaning": "רצון לדעת",
+      "example": "סקרנות: מי אכלה את הגבינה?"
+    },
+    {
+      "word": "הרפתקה",
+      "meaning": "חוויה מרגשת ולא צפויה",
+      "example": "הרפתקת השבוע: למצוא חניה ליד הבית."
+    },
+    {
+      "word": "מבוכה",
+      "meaning": "תחושה לא נוחה של בושה קלה",
+      "example": "מבוכה כשהשכן שמע אותנו שרות."
+    },
+    {
+      "word": "נוסטלגיה",
+      "meaning": "געגוע לעבר",
+      "example": "נוסטלגיה של סדרות מהילדות."
+    },
+    {
+      "word": "געגועים",
+      "meaning": "רצון לראות מישהו או משהו רחוק",
+      "example": "געגועים לאוכל של אמא."
+    },
+    {
+      "word": "פינוק",
+      "meaning": "דבר שעושים כדי להרגיש טוב",
+      "example": "פינוק של אמבטיה חמה."
+    },
+    {
+      "word": "שגרה",
+      "meaning": "סדר יום קבוע",
+      "example": "שגרה חדשה בדירה חדשה."
+    },
+    {
+      "word": "מרגוע",
+      "meaning": "מנוחה והרגעה",
+      "example": "הספה היא מקום המרגוע של הדירה."
+    },
+    {
+      "word": "פיהוק",
+      "meaning": "פתיחת פה מעייפות",
+      "example": "פיהוק אחד בסלון, וכולן מפהקות."
+    },
+    {
+      "word": "ריחוף",
+      "meaning": "חוסר ריכוז (גם סלנג)",
+      "example": "ריחוף מוחלט אחרי שבוע מבחנים."
+    },
+    {
+      "word": "יגיעה",
+      "meaning": "עבודה קשה ומעייפת",
+      "example": "אחרי יגיעה של יום שלם, מגיע לנו סרט."
+    },
+    {
+      "word": "תושייה",
+      "meaning": "יכולת למצוא פתרון במצב קשה",
+      "example": "תושייה: פתחנו צנצנת עם כפית."
+    },
+    {
+      "word": "חשש",
+      "meaning": "פחד שמשהו רע יקרה",
+      "example": "יש חשש כבד שנגמר החלב."
+    },
+    {
+      "word": "גמישות",
+      "meaning": "יכולת להסתגל לשינויים",
+      "example": "גמישות זה כשתור הכלים מתחלף ברגע האחרון."
+    },
+    {
+      "word": "שותפות",
+      "meaning": "עשייה משותפת, ביחד",
+      "example": "שותפות אמיתית: לחלוק את השמיכה."
+    },
+    {
+      "word": "אדיבות",
+      "meaning": "התנהגות נעימה ומתחשבת",
+      "example": "אדיבות זה להחזיר את השלט למקום."
+    },
+    {
+      "word": "התחדשות",
+      "meaning": "שינוי לטובה, משהו חדש",
+      "example": "התחדשנו בשטיח לסלון."
+    },
+    {
+      "word": "רוגע",
+      "meaning": "שקט נפשי, בלי לחץ",
+      "example": "רוגע של ערב בלי מטלות."
+    },
+    {
+      "word": "עננה",
+      "meaning": "ענן קטן, וגם תחושה קלה של דאגה",
+      "example": "עננה קטנה מעל הראש לפני מבחן."
+    },
+    {
+      "word": "קשת",
+      "meaning": "הצבעים שמופיעים בשמיים אחרי גשם",
+      "example": "יש קשת? כולן רצות לחלון."
+    },
+    {
+      "word": "ערפל",
+      "meaning": "עננים נמוכים שמסתירים את הנוף",
+      "example": "ערפל של בוקר על הכרמל."
+    },
+    {
+      "word": "אדווה",
+      "meaning": "גל קטן על פני המים",
+      "example": "אדוות בשלולית אחרי הגשם."
+    },
+    {
+      "word": "שוקק",
+      "meaning": "מלא חיים ותנועה",
+      "example": "השוק שוקק ביום שישי."
+    },
+    {
+      "word": "הומה",
+      "meaning": "מלא אנשים ורעש",
+      "example": "המטבח הומה כשכולן מבשלות יחד."
+    },
+    {
+      "word": "מסבירת פנים",
+      "meaning": "מקבלת בחום",
+      "example": "דירה מסבירת פנים לכל אורחת."
+    },
+    {
+      "word": "לרחף",
+      "meaning": "לנוע לאט באוויר",
+      "example": "הבלונים מיום ההולדת עדיין מרחפים בסלון."
+    },
+    {
+      "word": "עגמומי",
+      "meaning": "קצת עצוב וקודר",
+      "example": "יום עגמומי? בואו נאפה משהו."
+    },
+    {
+      "word": "משובב נפש",
+      "meaning": "משמח ומרענן מאוד",
+      "example": "כוס קפה ראשונה בבוקר: משובבת נפש."
+    },
+    {
+      "word": "זוטות",
+      "meaning": "דברים קטנים וחסרי חשיבות",
+      "example": "לא נריב על זוטות."
+    },
+    {
+      "word": "מעדן",
+      "meaning": "מאכל טעים במיוחד",
+      "example": "הפסטה של אתמול הייתה מעדן."
+    },
+    {
+      "word": "ייחוד",
+      "meaning": "משהו מיוחד שאין לאחרים",
+      "example": "לכל אחת בדירה יש ייחוד משלה."
+    },
+    {
+      "word": "לפנק",
+      "meaning": "לעשות דבר נעים למישהו",
+      "example": "בואו נפנק את עצמנו בארוחת בוקר."
+    },
+    {
+      "word": "שלולית",
+      "meaning": "מים שנאספו בשקע אחרי גשם",
+      "example": "קפיצה לשלולית, למה לא?"
+    },
+    {
+      "word": "תמימות",
+      "meaning": "חוסר חשדנות, אמונה בטוב",
+      "example": "בתמימות האמנתי שהכביסה תתקפל לבד."
+    },
+    {
+      "word": "התפעמות",
+      "meaning": "התרגשות עמוקה מיופי",
+      "example": "התפעמות מהנוף מהמרפסת."
+    },
+    {
+      "word": "פלפול",
+      "meaning": "ויכוח מתוחכם על פרטים קטנים",
+      "example": "פלפול של חצי שעה על איזה סרט לראות."
+    },
+    {
+      "word": "מזל",
+      "meaning": "הצלחה מקרית",
+      "example": "מזל שמישהי זכרה לקנות לחם."
+    },
+    {
+      "word": "יחד",
+      "meaning": "באותו מקום ובאותו זמן, עם אחרים",
+      "example": "הכי כיף זה יחד."
+    }
+  ],
+  "englishWords": [
+    {
+      "word": "serendipity",
+      "meaning": "צירוף מקרים משמח",
+      "example": "Finding chocolate in the freezer was pure serendipity."
+    },
+    {
+      "word": "cozy",
+      "meaning": "נעים, חמים ונוח",
+      "example": "The couch is the coziest spot in the apartment."
+    },
+    {
+      "word": "procrastinate",
+      "meaning": "לדחות דברים לאחר כך",
+      "example": "We procrastinated on the dishes until Friday."
+    },
+    {
+      "word": "wanderlust",
+      "meaning": "תשוקה גדולה לטייל",
+      "example": "One travel show and our wanderlust is back."
+    },
+    {
+      "word": "hygge",
+      "meaning": "תחושת נעימות ביתית וחמימה (מדנית)",
+      "example": "Candles, blankets and tea: pure hygge."
+    },
+    {
+      "word": "petrichor",
+      "meaning": "הריח של האדמה אחרי גשם",
+      "example": "Open the window, there's petrichor outside."
+    },
+    {
+      "word": "quirky",
+      "meaning": "מוזר בצורה חמודה",
+      "example": "Every roommate has a quirky habit."
+    },
+    {
+      "word": "binge-watch",
+      "meaning": "לצפות בהרבה פרקים ברצף",
+      "example": "We binge-watched the whole season in one weekend."
+    },
+    {
+      "word": "mellow",
+      "meaning": "רגוע ונינוח",
+      "example": "Sunday evenings are always mellow here."
+    },
+    {
+      "word": "giggle",
+      "meaning": "צחקוק",
+      "example": "One giggle in the living room, and everyone is laughing."
+    },
+    {
+      "word": "whimsical",
+      "meaning": "גחמני, דמיוני ומשעשע",
+      "example": "Our home screen is a bit whimsical, and we love it."
+    },
+    {
+      "word": "ephemeral",
+      "meaning": "חולף, קצר מועד",
+      "example": "The clean kitchen was beautiful but ephemeral."
+    },
+    {
+      "word": "cuddle",
+      "meaning": "להתחבק, להתכרבל",
+      "example": "Movie night means cuddling under one big blanket."
+    },
+    {
+      "word": "bliss",
+      "meaning": "אושר שלם",
+      "example": "A hot shower after a long day is pure bliss."
+    },
+    {
+      "word": "glimmer",
+      "meaning": "הבהוב חלש של אור; גם ניצוץ קטן של תקווה",
+      "example": "There's a glimmer of hope: the laundry is almost dry."
+    },
+    {
+      "word": "drizzle",
+      "meaning": "טפטוף גשם קל",
+      "example": "Just a drizzle, we can still go out."
+    },
+    {
+      "word": "breeze",
+      "meaning": "רוח קלה ונעימה",
+      "example": "Let's sit on the balcony and enjoy the breeze."
+    },
+    {
+      "word": "dusk",
+      "meaning": "דמדומי ערב",
+      "example": "The sky turns pink at dusk."
+    },
+    {
+      "word": "dawn",
+      "meaning": "שחר",
+      "example": "Nobody in this apartment is awake at dawn."
+    },
+    {
+      "word": "cheerful",
+      "meaning": "עליז, שמח",
+      "example": "Fresh flowers make the kitchen look cheerful."
+    },
+    {
+      "word": "grateful",
+      "meaning": "אסירת תודה, מכירה טובה",
+      "example": "I'm grateful for roommates who share snacks."
+    },
+    {
+      "word": "resilient",
+      "meaning": "חסינה, מתאוששת מהר",
+      "example": "Our houseplant is surprisingly resilient."
+    },
+    {
+      "word": "curious",
+      "meaning": "סקרנית",
+      "example": "I'm curious who ate the last cookie."
+    },
+    {
+      "word": "gorgeous",
+      "meaning": "מהממת, יפה מאוד",
+      "example": "What a gorgeous sunset tonight!"
+    },
+    {
+      "word": "awkward",
+      "meaning": "מביך, לא נוח",
+      "example": "It was awkward when the neighbor heard us singing."
+    },
+    {
+      "word": "clumsy",
+      "meaning": "מגושמת",
+      "example": "I'm so clumsy, I tripped over the same rug again."
+    },
+    {
+      "word": "cranky",
+      "meaning": "עצבנית, בעיקר מעייפות",
+      "example": "Don't talk to me before coffee, I'm cranky."
+    },
+    {
+      "word": "hangry",
+      "meaning": "עצבנית מרעב (סלנג)",
+      "example": "Order the pizza now, we're getting hangry."
+    },
+    {
+      "word": "munchies",
+      "meaning": "חשק פתאומי לנשנש (סלנג)",
+      "example": "Midnight munchies: who's up for popcorn?"
+    },
+    {
+      "word": "leftovers",
+      "meaning": "שאריות אוכל",
+      "example": "Tonight's dinner: leftovers from yesterday."
+    },
+    {
+      "word": "chores",
+      "meaning": "מטלות בית",
+      "example": "Let's split the chores fairly."
+    },
+    {
+      "word": "roommate",
+      "meaning": "שותפה לדירה",
+      "example": "The best roommate shares her chargers."
+    },
+    {
+      "word": "housewarming",
+      "meaning": "מסיבת חנוכת בית",
+      "example": "We need to plan our housewarming party."
+    },
+    {
+      "word": "potluck",
+      "meaning": "ארוחה שבה כל אחת מביאה מנה",
+      "example": "Friday potluck: everyone brings one dish."
+    },
+    {
+      "word": "sleepover",
+      "meaning": "לינה אצל חברה, פיג'מה פרטי",
+      "example": "Our living room is perfect for a sleepover."
+    },
+    {
+      "word": "throwback",
+      "meaning": "משהו שמזכיר את העבר",
+      "example": "This song is such a throwback!"
+    },
+    {
+      "word": "bucket list",
+      "meaning": "רשימת דברים שרוצים לעשות בחיים",
+      "example": "Skydiving is on my bucket list."
+    },
+    {
+      "word": "deadline",
+      "meaning": "מועד אחרון להגשה",
+      "example": "Three deadlines this week. Send help."
+    },
+    {
+      "word": "cram",
+      "meaning": "ללמוד המון בזמן קצר לפני מבחן",
+      "example": "We crammed for the exam all night."
+    },
+    {
+      "word": "all-nighter",
+      "meaning": "לילה לבן של לימודים או עבודה",
+      "example": "Coffee for everyone who pulled an all-nighter."
+    },
+    {
+      "word": "burnout",
+      "meaning": "שחיקה, תשישות",
+      "example": "Take a break before you hit burnout."
+    },
+    {
+      "word": "self-care",
+      "meaning": "דאגה לעצמך, טיפוח",
+      "example": "Face masks and a movie: self-care night."
+    },
+    {
+      "word": "vibe",
+      "meaning": "אווירה (סלנג)",
+      "example": "The apartment has a good vibe tonight."
+    },
+    {
+      "word": "squad",
+      "meaning": "חבורה (סלנג)",
+      "example": "The squad is ready for movie night."
+    },
+    {
+      "word": "bestie",
+      "meaning": "החברה הכי טובה (סלנג)",
+      "example": "Roommates today, besties forever."
+    },
+    {
+      "word": "spill the tea",
+      "meaning": "לספר רכילות (סלנג)",
+      "example": "Sit down and spill the tea!"
+    },
+    {
+      "word": "FOMO",
+      "meaning": "פחד להחמיץ משהו",
+      "example": "I stayed home and got serious FOMO."
+    },
+    {
+      "word": "adulting",
+      "meaning": "לעשות דברים של מבוגרים, כמו לשלם חשבונות (סלנג)",
+      "example": "Paid the electricity bill. Adulting complete."
+    },
+    {
+      "word": "sassy",
+      "meaning": "חצופה בצורה משעשעת",
+      "example": "The capybara looks a little sassy today."
+    },
+    {
+      "word": "bubbly",
+      "meaning": "תוססת ועליזה",
+      "example": "She's always so bubbly in the morning."
+    },
+    {
+      "word": "snuggle",
+      "meaning": "להתכרבל צמוד",
+      "example": "Rainy day? Time to snuggle up."
+    },
+    {
+      "word": "couch potato",
+      "meaning": "מי שמבלה את כל היום על הספה",
+      "example": "Weekend plan: full couch potato mode."
+    },
+    {
+      "word": "fluffy",
+      "meaning": "רך ותפוח",
+      "example": "These pancakes came out so fluffy."
+    },
+    {
+      "word": "crispy",
+      "meaning": "פריך",
+      "example": "The potatoes are perfectly crispy."
+    },
+    {
+      "word": "savory",
+      "meaning": "מלוח, לא מתוק",
+      "example": "Sweet or savory crepes tonight?"
+    },
+    {
+      "word": "craving",
+      "meaning": "חשק עז, בעיקר לאוכל",
+      "example": "I have a serious craving for ice cream."
+    },
+    {
+      "word": "recipe",
+      "meaning": "מתכון",
+      "example": "Who has a good recipe for lentil soup?"
+    },
+    {
+      "word": "tidy",
+      "meaning": "מסודר",
+      "example": "The living room is tidy, take a picture."
+    },
+    {
+      "word": "messy",
+      "meaning": "מבולגן",
+      "example": "A messy kitchen means someone was cooking."
+    },
+    {
+      "word": "clutter",
+      "meaning": "ערימה של חפצים מיותרים",
+      "example": "Too much clutter on the dining table."
+    },
+    {
+      "word": "declutter",
+      "meaning": "לפנות חפצים מיותרים",
+      "example": "This weekend we declutter the hallway."
+    },
+    {
+      "word": "laundry",
+      "meaning": "כביסה",
+      "example": "Whose laundry is in the machine?"
+    },
+    {
+      "word": "groceries",
+      "meaning": "מצרכים, קניות בסופר",
+      "example": "Can someone pick up groceries on the way home?"
+    },
+    {
+      "word": "budget",
+      "meaning": "תקציב",
+      "example": "We set a budget for shared groceries."
+    },
+    {
+      "word": "splurge",
+      "meaning": "להתפנק בהוצאה גדולה",
+      "example": "We splurged on sushi to celebrate."
+    },
+    {
+      "word": "bargain",
+      "meaning": "מציאה",
+      "example": "This lamp was a real bargain."
+    },
+    {
+      "word": "neighbor",
+      "meaning": "שכן או שכנה",
+      "example": "Our neighbor's dog says hi every morning."
+    },
+    {
+      "word": "landlord",
+      "meaning": "בעל הדירה",
+      "example": "Call the landlord, the faucet is leaking."
+    },
+    {
+      "word": "lease",
+      "meaning": "חוזה שכירות",
+      "example": "We signed the lease and got the keys."
+    },
+    {
+      "word": "utilities",
+      "meaning": "חשבונות שוטפים, כמו חשמל ומים",
+      "example": "Utilities are split four ways."
+    },
+    {
+      "word": "thrifty",
+      "meaning": "חסכנית",
+      "example": "Being thrifty means cooking at home more often."
+    },
+    {
+      "word": "generous",
+      "meaning": "נדיבה",
+      "example": "She's generous with her snacks."
+    },
+    {
+      "word": "reliable",
+      "meaning": "אמינה, אפשר לסמוך עליה",
+      "example": "A reliable roommate takes out the trash."
+    },
+    {
+      "word": "considerate",
+      "meaning": "מתחשבת",
+      "example": "Being considerate means headphones after midnight."
+    },
+    {
+      "word": "witty",
+      "meaning": "שנונה",
+      "example": "Her witty comments make every movie funnier."
+    },
+    {
+      "word": "hilarious",
+      "meaning": "מצחיק מאוד",
+      "example": "That video was hilarious."
+    },
+    {
+      "word": "sarcastic",
+      "meaning": "סרקסטית, אומרת את ההפך ממה שהיא מתכוונת",
+      "example": "\"Oh great, more dishes,\" she said sarcastically."
+    },
+    {
+      "word": "thoughtful",
+      "meaning": "מתחשבת ושמה לב לאחרים",
+      "example": "Leaving a note was really thoughtful."
+    },
+    {
+      "word": "spontaneous",
+      "meaning": "ספונטנית, בלי תכנון",
+      "example": "A spontaneous trip to the beach? Yes!"
+    },
+    {
+      "word": "adventurous",
+      "meaning": "הרפתקנית",
+      "example": "Feeling adventurous? Try the new recipe."
+    },
+    {
+      "word": "homesick",
+      "meaning": "מתגעגעת הביתה",
+      "example": "A little homesick? Call your mom."
+    },
+    {
+      "word": "daydream",
+      "meaning": "חלום בהקיץ",
+      "example": "Stop daydreaming, the movie is starting."
+    },
+    {
+      "word": "doze off",
+      "meaning": "להירדם בלי כוונה",
+      "example": "I always doze off in the middle of movies."
+    },
+    {
+      "word": "nap",
+      "meaning": "תנומה קצרה",
+      "example": "A short nap fixes everything."
+    },
+    {
+      "word": "snooze",
+      "meaning": "לדחות את השעון המעורר",
+      "example": "I hit snooze five times today."
+    },
+    {
+      "word": "yawn",
+      "meaning": "פיהוק; לפהק",
+      "example": "One yawn, and everyone starts yawning."
+    },
+    {
+      "word": "pillow fort",
+      "meaning": "מבצר כריות",
+      "example": "Let's build a pillow fort in the living room."
+    },
+    {
+      "word": "fairy lights",
+      "meaning": "שרשרת נורות קטנות לקישוט",
+      "example": "Fairy lights make the balcony magical."
+    },
+    {
+      "word": "houseplant",
+      "meaning": "צמח בית",
+      "example": "Who watered the houseplant this week?"
+    },
+    {
+      "word": "sunbeam",
+      "meaning": "קרן שמש",
+      "example": "A sunbeam on the couch, perfect for reading."
+    },
+    {
+      "word": "puddle",
+      "meaning": "שלולית",
+      "example": "Watch out for the puddle by the door."
+    },
+    {
+      "word": "rainbow",
+      "meaning": "קשת בענן",
+      "example": "Look, a rainbow over the bay!"
+    },
+    {
+      "word": "starry",
+      "meaning": "זרוע כוכבים",
+      "example": "What a starry night."
+    },
+    {
+      "word": "moonlight",
+      "meaning": "אור הירח",
+      "example": "Moonlight through the window, no lamp needed."
+    },
+    {
+      "word": "wholesome",
+      "meaning": "טהור וחם, משמח בלב",
+      "example": "Four friends cooking together is so wholesome."
+    },
+    {
+      "word": "heartwarming",
+      "meaning": "מחמם את הלב",
+      "example": "That movie ending was heartwarming."
+    },
+    {
+      "word": "linger",
+      "meaning": "להתעכב, להישאר עוד קצת",
+      "example": "We lingered at the table long after dinner."
+    },
+    {
+      "word": "savor",
+      "meaning": "ליהנות לאט מכל רגע או טעם",
+      "example": "Savor the last slice, it's precious."
+    },
+    {
+      "word": "unwind",
+      "meaning": "להירגע ולשחרר אחרי יום ארוך",
+      "example": "Tea and music to unwind after class."
+    },
+    {
+      "word": "chitchat",
+      "meaning": "שיחת חולין קלילה",
+      "example": "A little chitchat in the kitchen before bed."
+    }
+  ],
+  "meals": [
+    {
+      "name": "שקשוקה עם פטה",
+      "note": "מחבת אחת, וקצת לחם לנגב."
+    },
+    {
+      "name": "פסטה ברוטב עגבניות ובזיליקום",
+      "note": "קלאסיקה שתמיד עובדת."
+    },
+    {
+      "name": "מוקפץ ירקות עם אטריות",
+      "note": "דרך טעימה לנקות את המקרר."
+    },
+    {
+      "name": "קציצות עדשים ברוטב עגבניות",
+      "note": "זול, משביע, ונשאר גם למחר."
+    },
+    {
+      "name": "סלט קינואה עם ירקות ועשבי תיבול",
+      "note": "קליל ורענן לערב חם."
+    },
+    {
+      "name": "פיצה ביתית",
+      "note": "כל אחת בוחרת תוספות לחלק שלה."
+    },
+    {
+      "name": "טורטיות ממולאות",
+      "note": "שמים הכול על השולחן, וכל אחת מרכיבה לעצמה."
+    },
+    {
+      "name": "מרק עדשים כתומות",
+      "note": "חם, זול ומשביע. מושלם לחורף."
+    },
+    {
+      "name": "חביתה וסלט ישראלי",
+      "note": "כשאין כוח, אבל רוצות משהו אמיתי."
+    },
+    {
+      "name": "מג'דרה עם יוגורט",
+      "note": "אורז, עדשים ובצל מטוגן. אוכל נחמה."
+    },
+    {
+      "name": "פתיתים עם בצל מטוגן",
+      "note": "טעם של ילדות."
+    },
+    {
+      "name": "תפוחי אדמה בתנור עם רוזמרין",
+      "note": "מכניסות לתנור ושוכחות לחצי שעה."
+    },
+    {
+      "name": "קוסקוס עם ירקות",
+      "note": "סיר גדול שמספיק לכולן."
+    },
+    {
+      "name": "סלט פסטה קר",
+      "note": "מכינות בערב, אוכלות גם בצהריים למחרת."
+    },
+    {
+      "name": "פנקייקים לארוחת ערב",
+      "note": "כי מותר."
+    },
+    {
+      "name": "טוסטים",
+      "note": "ערב טוסטים: כל אחת ממציאה שילוב."
+    },
+    {
+      "name": "עוף בתנור עם תפוחי אדמה",
+      "note": "ארוחת שישי בלי מאמץ."
+    },
+    {
+      "name": "שניצל ופירה",
+      "note": "ארוחה שכולן אוהבות."
+    },
+    {
+      "name": "מרק ירקות",
+      "note": "כל הירקות שנשארו במקרר, בסיר אחד."
+    },
+    {
+      "name": "קארי ירקות עם חלב קוקוס",
+      "note": "עם אורז לבן ומעט כוסברה."
+    },
+    {
+      "name": "ניוקי ברוטב שמנת ופטריות",
+      "note": "פינוק של ערב חורפי."
+    },
+    {
+      "name": "חומוס ביתי עם פיתות",
+      "note": "עם שמן זית, פפריקה וביצה קשה."
+    },
+    {
+      "name": "סביח ביתי",
+      "note": "חציל מטוגן, ביצה, טחינה ועמבה בפיתה."
+    },
+    {
+      "name": "ארוחת בוקר ישראלית לערב",
+      "note": "ביצים, סלט, גבינות ולחם טרי."
+    },
+    {
+      "name": "פשטידת ירקות",
+      "note": "נשמרת יפה במקרר לכל השבוע."
+    },
+    {
+      "name": "לזניה",
+      "note": "פרויקט משותף לערב ארוך."
+    },
+    {
+      "name": "רביולי עם חמאה ומרווה",
+      "note": "רביולי קנוי, תוצאה של מסעדה."
+    },
+    {
+      "name": "טאקו עם שעועית שחורה",
+      "note": "עם אבוקדו, תירס וסלסה."
+    },
+    {
+      "name": "ספגטי בולונז",
+      "note": "סיר גדול, וכולן מרוצות."
+    },
+    {
+      "name": "מוקפץ עוף ברוטב טריאקי",
+      "note": "עם אורז או אטריות."
+    },
+    {
+      "name": "ירקות צלויים עם טחינה",
+      "note": "בטטה, כרובית ובצל, תנור חם וזהו."
+    },
+    {
+      "name": "שקשוקה ירוקה",
+      "note": "תרד, מנגולד וביצים במחבת אחת."
+    },
+    {
+      "name": "סלט טונה עם תפוחי אדמה",
+      "note": "מהיר, משביע ולא צריך לבשל הרבה."
+    },
+    {
+      "name": "מרק תירס",
+      "note": "מתוק, קרמי ומחמם."
+    },
+    {
+      "name": "פסטה פסטו",
+      "note": "עשר דקות מהסיר לצלחת."
+    },
+    {
+      "name": "ערב סושי ביתי",
+      "note": "כל אחת מגלגלת את שלה. כיף גם כשיוצא עקום."
+    },
+    {
+      "name": "פריטטה בתנור",
+      "note": "ביצים וכל ירק שיש בבית."
+    },
+    {
+      "name": "בורגר ביתי",
+      "note": "עם צ'יפס בתנור ורטבים בצד."
+    },
+    {
+      "name": "מרק בצל",
+      "note": "עם קרוטונים וגבינה מומסת למעלה."
+    },
+    {
+      "name": "פוקאצ'ה ביתית עם מטבלים",
+      "note": "בצק אחד, ארבע ידיים."
+    },
+    {
+      "name": "מלוואח עם רסק ועגבנייה מגוררת",
+      "note": "ארוחת בוקר מושלמת לסוף שבוע."
+    },
+    {
+      "name": "סלט יווני עם פיתות",
+      "note": "עגבניות, מלפפון, זיתים ופטה."
+    },
+    {
+      "name": "פסטה אליו אוליו",
+      "note": "שום, שמן זית וצ'ילי. פשוט ומדויק."
+    },
+    {
+      "name": "חזה עוף בגריל עם סלט",
+      "note": "קליל אחרי סוף שבוע כבד."
+    },
+    {
+      "name": "פשטידת גבינות",
+      "note": "מתאימה במיוחד לשבועות."
+    },
+    {
+      "name": "מרק מינסטרונה",
+      "note": "מרק ירקות איטלקי עם פסטה קטנה."
+    },
+    {
+      "name": "אורז מוקפץ עם ביצה",
+      "note": "הכי טוב עם אורז של אתמול."
+    },
+    {
+      "name": "כרובית בתנור עם טחינה",
+      "note": "כרובית שלמה, תנור חם, וקצת סבלנות."
+    },
+    {
+      "name": "ערב פיקניק בסלון",
+      "note": "גבינות, ענבים, קרקרים ושמיכה על הרצפה."
+    },
+    {
+      "name": "ערב פלאפל",
+      "note": "קונות פלאפל, וכל אחת מכינה סלט אחר."
+    },
+    {
+      "name": "בטטה ממולאת בתנור",
+      "note": "עם גבינה, שעועית או ירקות."
+    },
+    {
+      "name": "פסטה מוקרמת בתנור",
+      "note": "שכבה של גבינה למעלה, וזה כבר חג."
+    },
+    {
+      "name": "קרפים ממולאים",
+      "note": "מלוחים לארוחה, מתוקים לקינוח."
+    },
+    {
+      "name": "מרק שעועית",
+      "note": "סיר גדול לערב גשום."
+    },
+    {
+      "name": "פיצה על פיתה",
+      "note": "מהיר, זול, ומתאים לכל מקרר."
+    },
+    {
+      "name": "סלט עדשים שחורות",
+      "note": "עם פלפל קלוי, בצל סגול ולימון."
+    },
+    {
+      "name": "כופתאות מוקפצות",
+      "note": "כופתאות קנויות, מחבת חמה ורוטב סויה."
+    },
+    {
+      "name": "קציצות דגים ברוטב",
+      "note": "עם אורז או לחם לנגב."
+    },
+    {
+      "name": "פסטה עם ירקות קלויים",
+      "note": "צולות ירקות בתנור ומערבבות עם פסטה."
+    },
+    {
+      "name": "ערב מרקים",
+      "note": "כל אחת מכינה מרק אחר, וטועמות מכולם."
+    }
+  ],
+  "facts": [
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "האריה הוא החתול היחיד שחי בקבוצות משפחתיות, שנקראות להקות."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "הקפיברה היא המכרסם הגדול בעולם."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "טביעת האף של כל כלב ייחודית, כמו טביעת אצבע."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות שמחות קופצות ומסתובבות באוויר. לריקוד הזה קוראים בינקי."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "שאגה של אריה יכולה להישמע ממרחק של כשמונה קילומטרים."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "בין האצבעות של הקפיברה יש קרום שחייה חלקי, והיא שחיינית מצוינת."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "חוש הריח של כלב חזק פי עשרות אלפים משל בני אדם."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "השיניים של הארנבת לא מפסיקות לגדול כל החיים."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריות נחים או ישנים עד כ-20 שעות ביממה."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברה יכולה להישאר מתחת למים עד כחמש דקות."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "לכלבים יש עפעף שלישי שמגן על העין."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות רואות כמעט 360 מעלות סביבן בלי להזיז את הראש."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "בלהקה, הלביאות הן אלה שעושות את רוב הציד."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "העיניים, האוזניים והנחיריים של הקפיברה גבוהים על הראש, כך שהיא רואה ונושמת גם כשרוב הגוף במים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים רואים צבעים, אבל פחות מאיתנו: בעיקר כחול וצהוב."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבת יכולה לסובב כל אוזן בנפרד, כמו אנטנה."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "לכל אריה יש דפוס ייחודי של נקודות בבסיס השפם, שבעזרתו חוקרים מזהים אריות."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות אוכלות בעיקר עשב וצמחי מים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "גורי כלבים נולדים עם עיניים ואוזניים סגורות."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "האוזניים הארוכות של הארנבת עוזרות לה גם לפזר חום ולהתקרר."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "גורי אריות נולדים עם כתמים על הפרווה, והכתמים נעלמים כשהם גדלים."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "השיניים הקדמיות של הקפיברה גדלות כל הזמן, ולכן היא חייבת לכרסם."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "לכלב בוגר יש 42 שיניים."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות לא מסוגלות להקיא."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "האריה הוא החתול היחיד שיש לו ציצת שיער כהה בקצה הזנב."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות חיות בקבוצות, לרוב של 10 עד 20 פרטים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים היו בין החיות הראשונות שבני אדם בייתו, לפני יותר מ-15,000 שנה."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבת רגועה ומרוצה משמיעה חריקת שיניים עדינה, מעין גרגור."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "רוב האריות בטבע חיים באפריקה, ואוכלוסייה קטנה חיה גם בהודו."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "ציפורים נוחתות לפעמים על הגב של הקפיברה ואוכלות ממנה חרקים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים חולמים בשינה, בדומה לבני אדם."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות פעילות בעיקר בשחר ובין הערביים."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריות מתחככים בראש זה בזה כדי להראות חיבה."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "השם קפיברה מגיע משפת הטופי שבדרום אמריקה, ופירושו בערך: אוכלת העשבים הדקים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "האף של הכלב לח, והלחות עוזרת לו לקלוט ריחות."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות הן לא מכרסמים. הן שייכות לסדרה נפרדת שנקראת ארנבאים."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "לביאות בלהקה מניקות לפעמים גם גורים של לביאות אחרות."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות מתקשרות בשריקות, בנביחות קצרות ובגרגורים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבת בורדר קולי בשם צ'ייסר למדה לזהות יותר מ-1,000 צעצועים לפי השם."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "כשארנבת מרגישה סכנה, היא רוקעת ברגליים האחוריות כדי להזהיר את האחרות."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "הלשון של האריה מחוספסת מאוד, כמו נייר זכוכית."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות פעילות בעיקר מוקדם בבוקר ובערב."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כשכלב ובעליו מסתכלים זה בעיני זה, אצל שניהם עולה רמת האוקסיטוצין, הורמון הקרבה."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות בר חיות במערכות של מחילות מתחת לאדמה."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריות רואים בחושך הרבה יותר טוב מבני אדם, ולכן הם צדים בעיקר בלילה."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "כשמגיע טורף, הקפיברות קופצות למים ושוחות משם."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים שומעים צלילים גבוהים מאוד, שבני אדם בכלל לא שומעים."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "האף של הארנבת זז כמעט כל הזמן, כדי לקלוט ריחות."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריה זכר בוגר יכול לשקול יותר מ-180 קילו."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "הקרובים של הקפיברה הם השרקנים, שנקראים גם חזירי ים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "הכלב הכנעני הוא גזע ישראלי, והוא הכלב הלאומי של ישראל."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות מנקות את עצמן בקפידה, כמו חתולים."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריות יכולים לרוץ מהר מאוד, אבל רק למרחקים קצרים."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "לקפיברה בוגרת יכול להיות משקל של 35 עד 66 קילו."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "גרייהאונד יכול לרוץ במהירות של יותר מ-60 קמ\"ש."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "לארנבת יש 28 שיניים."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "לאריה יש בעברית כמה שמות: ארי, לביא, שחל וליש."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "גורי קפיברה מתחילים לאכול עשב זמן קצר אחרי הלידה."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים מבינים כשאדם מצביע על משהו, וזה לא מובן מאליו בעולם החי."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבת שמניחה את הראש מול ארנבת אחרת מבקשת שינקו אותה."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "האריה הוא סמל העיר ירושלים."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות לא מייצרות ויטמין C בעצמן, בדיוק כמו בני אדם."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים מפהקים לפעמים כשהם רואים בן אדם מפהק."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבות הן חיות חברתיות, ומעדיפות לחיות עם עוד ארנבת."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "גורי אריות נולדים כמעט עיוורים, והעיניים שלהם נפתחות אחרי כמה ימים."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות חיות ליד נהרות, אגמים וביצות בדרום אמריקה."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כלבים מזיעים מעט מאוד, ובעיקר דרך כריות הרגליים. כדי להתקרר הם מתנשמים."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "גורי ארנבת נולדים בלי פרווה ועם עיניים סגורות."
+    },
+    {
+      "animal": "אריה",
+      "owner": "אוריה",
+      "text": "אריות יכולים להסתדר כמה ימים בלי לשתות, ומקבלים חלק מהנוזלים מהמזון."
+    },
+    {
+      "animal": "קפיברה",
+      "owner": "נועה",
+      "text": "קפיברות מנמנמות לפעמים במים, עם האף מעל פני המים."
+    },
+    {
+      "animal": "כלב",
+      "owner": "נעם",
+      "text": "כשכלב מכשכש בזנב יותר לצד ימין, זה קשור בדרך כלל לרגש חיובי."
+    },
+    {
+      "animal": "ארנב",
+      "owner": "הדס",
+      "text": "ארנבת יכולה לקפוץ לגובה של קרוב למטר."
+    }
+  ],
+  "jokes": [
+    {
+      "q": "למה ספר המתמטיקה עצוב?",
+      "a": "כי יש לו המון בעיות."
+    },
+    {
+      "q": "למה החשמלאי תמיד שמח?",
+      "a": "כי הוא מחובר לזרם."
+    },
+    {
+      "q": "מה אמר המקרר לתנור?",
+      "a": "אתה ממש חם עליי."
+    },
+    {
+      "q": "מה אמר אפס לשמונה?",
+      "a": "איזו חגורה יפה!"
+    },
+    {
+      "q": "מה אמר הים לחוף?",
+      "a": "כלום. הוא רק עשה לו גלים."
+    },
+    {
+      "q": "למה הפופקורן לא שומר סודות?",
+      "a": "כי הוא תמיד מתפוצץ."
+    },
+    {
+      "q": "למה הבצל לא מוזמן למסיבות?",
+      "a": "כי כולם בוכים כשהוא מגיע."
+    },
+    {
+      "q": "למה הכלב ישב בצל?",
+      "a": "כי הוא לא רצה להפוך להוט דוג."
+    },
+    {
+      "q": "למה האריה לא מצליח לשחק מחבואים?",
+      "a": "כי תמיד רואים לו את הרעמה."
+    },
+    {
+      "q": "למה הקפיברה נמצאת בכל קבוצת וואטסאפ?",
+      "a": "כי היא מסתדרת עם כולם."
+    },
+    {
+      "q": "איך קוראים לכלב קוסם?",
+      "a": "לברקדברדור."
+    },
+    {
+      "q": "למה המים לא נכנסים לוויכוחים?",
+      "a": "כי הם תמיד זורמים."
+    },
+    {
+      "q": "למה השמש לא הולכת לאוניברסיטה?",
+      "a": "כי יש לה כבר מיליוני מעלות."
+    },
+    {
+      "q": "למה המתמטיקאית לא מפחדת ממספרים שליליים?",
+      "a": "כי היא תמיד חושבת חיובי."
+    },
+    {
+      "q": "מה אמר שבר אחד לשבר השני?",
+      "a": "ביחד אנחנו שלמים."
+    },
+    {
+      "q": "כמה שותפות צריך כדי להחליף נורה?",
+      "a": "אחת שמחליפה, ושלוש שמסבירות לה שהיא מחזיקה את זה הפוך."
+    },
+    {
+      "q": "למה הכיור תמיד מלא?",
+      "a": "כי כל אחת בטוחה שעכשיו התור של מישהי אחרת."
+    },
+    {
+      "q": "מה המקרר אומר בשתיים בלילה?",
+      "a": "שוב את? עכשיו?"
+    },
+    {
+      "q": "למה השלט תמיד נעלם?",
+      "a": "כי הוא אוהב לשחק מחבואים בין הכריות."
+    },
+    {
+      "q": "למה הוויי-פיי לא בא למסיבה?",
+      "a": "כי הוא לא הרגיש מחובר."
+    },
+    {
+      "q": "לאן נעלמות כל העוגיות?",
+      "a": "מישהי תמיד רק טועמת אחת."
+    },
+    {
+      "q": "למה החתול ישב על המחשב?",
+      "a": "כדי לשמור על העכבר."
+    },
+    {
+      "q": "מה אמרה הצלחת לכוס?",
+      "a": "ארוחת הערב עליי."
+    },
+    {
+      "q": "למה הארנבת קיבלה מאה בחשבון?",
+      "a": "כי ארנבות יודעות להתרבות מהר."
+    },
+    {
+      "q": "מה אמר הכלב בסוף היום?",
+      "a": "היה לי יום כלבים."
+    },
+    {
+      "q": "למה הדג לא משחק כדורסל?",
+      "a": "כי הוא מפחד מהרשת."
+    },
+    {
+      "q": "מה אמרה הנורה לשקע?",
+      "a": "אתה ממש מדליק אותי."
+    },
+    {
+      "q": "למה התפוח לא אוהב רופאים?",
+      "a": "כי כל יום הוא מרחיק אחד."
+    },
+    {
+      "q": "למה ספר הבישול תמיד רגוע?",
+      "a": "כי יש לו מתכון לכל דבר."
+    },
+    {
+      "q": "למה המטרייה תמיד עצובה?",
+      "a": "כי היא יוצאת רק כשרע בחוץ."
+    },
+    {
+      "q": "למה אף אחד לא אוהב את השעון המעורר?",
+      "a": "כי הוא כל הזמן מעיר."
+    },
+    {
+      "q": "למה הגרביים נעלמות בכביסה?",
+      "a": "כי הן נכנסות בזוגות ויוצאות רווקות."
+    },
+    {
+      "q": "למה העוגה הלכה לטיפול?",
+      "a": "כי היו לה יותר מדי שכבות של רגשות."
+    },
+    {
+      "q": "למה הכביסה לא יצאה לבלות?",
+      "a": "כי היא הרגישה קצת מקומטת."
+    },
+    {
+      "q": "למה הלימון לא מצליח להתפייס?",
+      "a": "כי הוא תמיד נשאר חמוץ."
+    },
+    {
+      "q": "מה אמרה הכפית למזלג?",
+      "a": "אתה ממש מחודד היום."
+    },
+    {
+      "q": "למה הספה תמיד עייפה?",
+      "a": "כי כולן נשענות עליה."
+    },
+    {
+      "q": "למה המחשב הלך לישון מוקדם?",
+      "a": "כי היה לו עומס יתר."
+    },
+    {
+      "q": "למה האריה הפסיק לאכול ליצנים?",
+      "a": "כי הם טעמו מצחיק."
+    },
+    {
+      "q": "למה הקפיברה לא נלחצת לפני מבחנים?",
+      "a": "כי היא פשוט צפה מעל הכול."
+    },
+    {
+      "q": "למה הכלב הוא תלמיד מצטיין?",
+      "a": "כי הוא תמיד דוגמה."
+    },
+    {
+      "q": "מה אמר הקיר לקיר השני?",
+      "a": "ניפגש בפינה."
+    },
+    {
+      "q": "למה הבדיחות של העיפרון לא מצחיקות?",
+      "a": "כי אין להן שום חוד."
+    },
+    {
+      "q": "מה עושה ענן כשהוא מאוהב?",
+      "a": "הוא בעננים."
+    },
+    {
+      "q": "למה הקקטוס לא מקבל חיבוקים?",
+      "a": "כי הוא קצת עוקצני."
+    },
+    {
+      "q": "למה העציץ בסלון עדיין חי?",
+      "a": "כי כל אחת בטוחה שמישהי אחרת משקה אותו."
+    },
+    {
+      "q": "מה אמר הקפה לחלב?",
+      "a": "בלעדייך אני קצת מר."
+    },
+    {
+      "q": "למה לוח השנה לחוץ?",
+      "a": "כי הימים שלו ספורים."
+    },
+    {
+      "q": "מה אמר הירח לשמש?",
+      "a": "את כל כך מבריקה, אני רק מחזיר לך אור."
+    },
+    {
+      "q": "למה הארנבת תמיד מגיעה ראשונה?",
+      "a": "כי היא לא הולכת. היא קופצת."
+    }
+  ]
+}
