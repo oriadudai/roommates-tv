@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הבית שלנו</string>
+    <string name="home_watcher_label">כפתור הבית של הבית שלנו</string>
+    <string name="home_watcher_description">פותח את מסך הדירה כשלוחצים על כפתור ה-Home בשלט.</string>
+</resources>

@@ -1,22 +1,42 @@
-# מסך הבית של הדירה
+# הבית שלנו – מסך הבית של הדירה
 
-Launcher לטלוויזיה של הדירה של אוריה, הדס, נועה ונעם: עיצוב פסטלי, ארבע חיות על הירח (אריה, קפיברה, כלב וארנבת), מזג אוויר עם זריחה ושקיעה, ווידג'ט יומי מתחלף, ואריחים ל-Netflix, סלקום TV, Disney+ ו-HBO Max.
+Launcher לטלוויזיה של הדירה של אוריה, הדס, נועה ונעם: אריה, קפיברה, כלב וארנבת על ירח מתנדנד, מזג אוויר בחיפה עם זריחה ושקיעה, ווידג'ט יומי מתחלף, ואריחים ל-Netflix, סלקום TV, Disney+, HBO Max, HDMI ו"כל האפליקציות".
 
-## מה יש כרגע
+## מבנה
 
-- `content/apartment_content.json` – התוכן לווידג'ט היומי:
-  - `words` – 100 מילים בעברית
-  - `englishWords` – 100 מילים באנגלית
-  - `meals` – 60 רעיונות לארוחות
-  - `facts` – 72 עובדות על החיות (18 לכל אחת)
-  - `jokes` – 50 בדיחות (שאלה ותשובה)
+- `MainActivity.java` – המסך: הסצנה, מזג האוויר, הווידג'ט, האריחים ומגירת כל האפליקציות.
+- `DailyContent.java` – בוחר כל יום מילה, ארוחה, עובדה ובדיחה מתוך `assets/content.json`.
+- `Weather.java` – מזג אוויר, זריחה ושקיעה מ-Open-Meteo (חינמי, בלי מפתח).
+- `HomeWatcherService.java` – מחזיר למסך הזה כשלוחצים Home בשלט.
 
-כל יום נבחר פריט אחד מכל רשימה לפי התאריך. מילת היום מתחלפת לסירוגין בין עברית לאנגלית.
+## התקנה על הטלוויזיה (PowerShell בטרמינל של Android Studio)
 
-## הוספת תוכן
+```
+$adb = "$env:LOCALAPPDATA\Android\Sdk\platform-tools\adb.exe"
+& $adb connect <IP-של-הטלוויזיה>:5555
+```
+לאשר בטלוויזיה, לבחור אותה ברשימת המכשירים וללחוץ ▶ Run.
 
-אפשר להוסיף פריטים לכל רשימה ישירות בקובץ, באותו מבנה. האפליקציה תשתמש ברשימה המעודכנת בגרסה הבאה שתותקן.
+## כפתור ה-Home
 
-## בהמשך
+**אל תכבי את מסך הבית המקורי** (`pm disable-user`) – זה משאיר מסך שחור. במקום זה:
+```
+& $adb shell cmd package set-home-activity com.dudai.roommates/.MainActivity
+& $adb shell settings get secure enabled_accessibility_services
+```
+אם התשובה היא `null`:
+```
+& $adb shell settings put secure enabled_accessibility_services com.dudai.roommates/com.dudai.roommates.HomeWatcherService
+& $adb shell settings put secure accessibility_enabled 1
+```
+לביטול: `& $adb shell settings delete secure enabled_accessibility_services`
 
-קוד האפליקציה (Android Studio, Java) יתווסף לכאן כשנבנה את המסך, על בסיס הפרויקט `space-home-tv`.
+## תוכן יומי
+
+`app/src/main/assets/content.json`: 100 מילים בעברית, 100 באנגלית (לסירוגין), 60 ארוחות, 72 עובדות על החיות ו-50 בדיחות. אפשר להוסיף פריטים באותו מבנה ולהתקין מחדש.
+
+## הגדרות בראש MainActivity.java
+
+- `LAT`, `LON` – מיקום מזג האוויר (חיפה).
+- `HDMI_INDEX` – איזו כניסת HDMI האריח פותח (0 = הראשונה).
+- `apps` – האריחים: שם, צבע ושמות חבילות.
